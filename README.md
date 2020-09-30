@@ -1,7 +1,7 @@
-net-monitor
+Net-Monitor
 ===========
 
-This is a couple of Python scripts which ping a block of IP addresses on a
+These are a couple of Python scripts which ping a block of IP addresses on a
 network, and produce a simple HTML page containing charts of the results.
 
 The code tries to detect the MAC addresses corresponding to each IP address,
@@ -11,7 +11,7 @@ using DHCP.
 Legals
 ======
 
-This code comes with no warranty, or NO WARRANTY if you need to be shouted at.
+These code comes with no warranty, or NO WARRANTY if you need to be shouted at.
 
 It is placed in the public domain by its author, Ian Harvey.
 
